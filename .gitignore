@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+build/
+dist/
+out/
+*.code-workspace
+
+*.out
+*.output
+*.log
+*.bin
+*.exe
